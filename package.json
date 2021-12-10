@@ -1,5 +1,5 @@
 {
-  "name": "proshop",
+  "name": "HilalShop",
   "version": "1.0.0",
   "description": "MERN shopping cart app",
   "main": "server.js",
@@ -24,7 +24,8 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.10.6",
     "morgan": "^1.10.0",
-    "multer": "^1.4.2"
+    "multer": "^1.4.2",
+    "paypal-rest-sdk": "^1.8.1"
   },
   "devDependencies": {
     "concurrently": "^6.4.0",
